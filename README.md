@@ -1,2 +1,2 @@
-# hello-world
-Atividade acadêmica de Engenharia de Software 
+# Hello World 
+Atividade de Engenharia de Software I desenvolvida em aula.
